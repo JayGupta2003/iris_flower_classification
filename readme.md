@@ -33,6 +33,14 @@ To assess model performance, I compared them using the following metrics:
 - **Recall**
 - **F1-Score**
 
+## Performance Metrics
+| Model               | Accuracy | Precision | Recall | F1 Score |
+|---------------------|----------|-----------|--------|----------|
+| **SVM**            | 96.67%   | 96.68%    | 96.67% | 96.67%   |
+| **Logistic Regression** | 97.33%   | 97.38%    | 97.33% | 97.33%   |
+| **K-Nearest Neighbors** | 97.33%   | 97.38%    | 97.33% | 97.33%   |
+| **Random Forest Classifier** | 98.00%   | 98.01%    | 98.00% | 98.00%   |
+
 The results were visualized using a **matplotlib line plot** to provide a performance comparison.
 
 ## How to Use
